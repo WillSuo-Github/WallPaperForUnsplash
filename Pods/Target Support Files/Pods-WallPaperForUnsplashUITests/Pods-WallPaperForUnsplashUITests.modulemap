@@ -1,0 +1,6 @@
+framework module Pods_WallPaperForUnsplashUITests {
+  umbrella header "Pods-WallPaperForUnsplashUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
