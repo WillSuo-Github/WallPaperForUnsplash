@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8A6670E11FEC17F700D6F605 /* DownloadTaskQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A6670E01FEC17F700D6F605 /* DownloadTaskQueue.swift */; };
 		8A793DD31FE67B0D00C8C44E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A793DD21FE67B0D00C8C44E /* AppDelegate.swift */; };
 		8A793DD51FE67B0D00C8C44E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A793DD41FE67B0D00C8C44E /* ViewController.swift */; };
 		8A793DD71FE67B0D00C8C44E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A793DD61FE67B0D00C8C44E /* Assets.xcassets */; };
@@ -43,6 +44,7 @@
 		5043A403925C001A861EA619 /* Pods-WallPaperForUnsplash.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WallPaperForUnsplash.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WallPaperForUnsplash/Pods-WallPaperForUnsplash.debug.xcconfig"; sourceTree = "<group>"; };
 		56B1FC3C0B557FC760F73D24 /* Pods-WallPaperForUnsplashTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WallPaperForUnsplashTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-WallPaperForUnsplashTests/Pods-WallPaperForUnsplashTests.release.xcconfig"; sourceTree = "<group>"; };
 		7F2FEB6E325BB43D1320EF74 /* Pods-WallPaperForUnsplashTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WallPaperForUnsplashTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WallPaperForUnsplashTests/Pods-WallPaperForUnsplashTests.debug.xcconfig"; sourceTree = "<group>"; };
+		8A6670E01FEC17F700D6F605 /* DownloadTaskQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadTaskQueue.swift; sourceTree = "<group>"; };
 		8A793DCF1FE67B0D00C8C44E /* WallPaperForUnsplash.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WallPaperForUnsplash.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8A793DD21FE67B0D00C8C44E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8A793DD41FE67B0D00C8C44E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -127,6 +129,7 @@
 			children = (
 				8A793DD21FE67B0D00C8C44E /* AppDelegate.swift */,
 				8A793DD41FE67B0D00C8C44E /* ViewController.swift */,
+				8A6670E01FEC17F700D6F605 /* DownloadTaskQueue.swift */,
 				8A793DD61FE67B0D00C8C44E /* Assets.xcassets */,
 				8A793DD81FE67B0D00C8C44E /* Main.storyboard */,
 				8A793DDB1FE67B0D00C8C44E /* Info.plist */,
@@ -463,6 +466,7 @@
 			files = (
 				8A793DD51FE67B0D00C8C44E /* ViewController.swift in Sources */,
 				8A793DD31FE67B0D00C8C44E /* AppDelegate.swift in Sources */,
+				8A6670E11FEC17F700D6F605 /* DownloadTaskQueue.swift in Sources */,
 				8A793DFF1FE6956400C8C44E /* PhotoModule.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

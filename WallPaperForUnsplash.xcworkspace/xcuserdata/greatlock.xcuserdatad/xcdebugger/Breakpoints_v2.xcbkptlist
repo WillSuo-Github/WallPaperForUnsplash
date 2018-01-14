@@ -38,48 +38,32 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "WallPaperForUnsplash/ViewController.swift"
-            timestampString = "535221369.854901"
+            timestampString = "536869367.969808"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "78"
-            endingLineNumber = "78"
-            landmarkName = "downloadPapers(localArr:)"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "downloadPapers(urlStr:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "WallPaperForUnsplash/ViewController.swift"
-            timestampString = "535221369.855597"
+            filePath = "WallPaperForUnsplash/DownloadTaskQueue.swift"
+            timestampString = "536869367.970399"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "84"
-            endingLineNumber = "84"
-            landmarkName = "downloadPapers(localArr:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "WallPaperForUnsplash/ViewController.swift"
-            timestampString = "535221369.855932"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "76"
-            endingLineNumber = "76"
-            landmarkName = "downloadPapers(localArr:)"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "endTask(taskID:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
